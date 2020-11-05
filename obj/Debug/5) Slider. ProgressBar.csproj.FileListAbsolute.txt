@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\bin\Debug\_5__Slider.ProgressBar.exe.config
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\bin\Debug\_5__Slider.ProgressBar.exe
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\bin\Debug\_5__Slider.ProgressBar.pdb
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\5) Slider. ProgressBar.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\_5__Slider.ProgressBar.Form1.resources
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\_5__Slider.ProgressBar.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\5) Slider. ProgressBar.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\_5__Slider.ProgressBar.exe
+F:\ITStep\2 курс\WF\CW\5) Slider. ProgressBar\obj\Debug\_5__Slider.ProgressBar.pdb
